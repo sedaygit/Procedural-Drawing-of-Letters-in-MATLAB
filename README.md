@@ -12,7 +12,7 @@ This example focuses on basic image creation and drawing shapes with varying sha
 This script extends the previous example by creating color images using RGB channels.  
 Letters are drawn using single colors (e.g., blue or green), showcasing how to manipulate each color channel separately in a 3D image matrix.
 
-## 3. Procedural-Multiple-Colors-Drawing-of-Letters-in-MATLAB
+## 3. Procedural-Colorful-Drawing-of-Letters-in-MATLAB
 
 An advanced version that draws letters using multiple distinct colors and additional decorative elements like colored dots.  
 This demonstrates combining multiple colors and shapes in one image by assigning pixel values across RGB channels precisely.
