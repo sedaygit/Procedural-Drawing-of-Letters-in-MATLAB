@@ -17,6 +17,13 @@ Letters are drawn using single colors (e.g., blue or green), showcasing how to m
 An advanced version that draws letters using multiple distinct colors and additional decorative elements like colored dots.  
 This demonstrates combining multiple colors and shapes in one image by assigning pixel values across RGB channels precisely.
 
+---
+
+# Outputs
+<img width="592" height="445" alt="image" src="https://github.com/user-attachments/assets/6396ebb4-91dd-4284-baf8-8558a6d856c8" />
+<img width="588" height="435" alt="image" src="https://github.com/user-attachments/assets/8376863a-7786-48a4-ad1b-3c2d264d963a" />
+<img width="586" height="442" alt="image" src="https://github.com/user-attachments/assets/8609aabe-d352-415c-89e3-ef242e305017" />
+
 
 ---
 
