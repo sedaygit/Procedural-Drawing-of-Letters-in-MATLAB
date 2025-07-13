@@ -1,0 +1,44 @@
+# MATLAB temporary files and folders
+*.asv
+*.m~  
+*.mdl~
+*.slx~
+*.mex*
+
+# MATLAB autosave files
+*.autosave
+
+# MATLAB crash dump files
+CrashDump*
+
+# MATLAB backup files
+*_backup.m
+
+# MATLAB figure files (if you don't want to track .fig files)
+*.fig
+
+# MATLAB preference and history files
+.matlab/
+history.m
+LastWarn.m
+
+# Operating system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Logs and temporary folders
+logs/
+tmp/
+temp/
+
+# Other IDE/editor files
+.vscode/
+.idea/
+
+# Python virtual environment (if any)
+.env/
+.venv/
+__pycache__/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
