@@ -20,7 +20,7 @@ This demonstrates combining multiple colors and shapes in one image by assigning
 ---
 
 # Outputs
-<img width="292" height="405" alt="image" src="https://github.com/user-attachments/assets/6396ebb4-91dd-4284-baf8-8558a6d856c8" />
+<img width="292" height="395" alt="image" src="https://github.com/user-attachments/assets/6396ebb4-91dd-4284-baf8-8558a6d856c8" />
 <img width="288" height="445" alt="image" src="https://github.com/user-attachments/assets/8376863a-7786-48a4-ad1b-3c2d264d963a" />
 <img width="286" height="442" alt="image" src="https://github.com/user-attachments/assets/8609aabe-d352-415c-89e3-ef242e305017" />
 
